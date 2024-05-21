@@ -9,10 +9,10 @@
   <a href="https://www.linkedin.com/in/douglas-bispo-almeida/">
     <img src="./icons/linkedin.svg" alt="Linkedin" width="42" height="42">
   </a>
-  <a href="https://www.linkedin.com/in/douglas-bispo-almeida/">
+  <a href="https://www.behance.net/dougonly">
     <img src="./icons/behance.svg" alt="Behance" width="42" height="42">
   </a>
-  <a href="https://www.linkedin.com/in/douglas-bispo-almeida/">
+  <a href="https://buymeacoffee.com/onllydoug">
     <img src="./icons/buymeacoffee.svg" alt="Buymeacoffee" width="42" height="42">
   </a>
 </p>
